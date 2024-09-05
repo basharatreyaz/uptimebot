@@ -10,11 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3018,
-    "timeDay": 3018,
-    "timeWeek": 3018,
-    "timeMonth": 3018,
-    "timeYear": 3018,
+    "time": 2952,
+    "timeDay": 2952,
+    "timeWeek": 2952,
+    "timeMonth": 2952,
+    "timeYear": 2952,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "web",
+    "url": "https://sitedoctors-in.stackstaging.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/sitedoctors-in.stackstaging.com.ico",
+    "slug": "web",
+    "status": "down",
+    "uptime": "13.22%",
+    "uptimeDay": "13.22%",
+    "uptimeWeek": "13.22%",
+    "uptimeMonth": "13.22%",
+    "uptimeYear": "13.22%",
+    "time": 515,
+    "timeDay": 515,
+    "timeWeek": 515,
+    "timeMonth": 515,
+    "timeYear": 515,
+    "dailyMinutesDown": {
+      "2024-09-05": 0
+    }
   }
 ]
