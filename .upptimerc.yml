@@ -5,8 +5,7 @@ repo: uptimebot # The name of this repository
 sites:
   - name: wpsitedoctors
     url: https://wpsitedoctors.com/
-
-    - name: web
+  - name: web
     url: https://sitedoctors-in.stackstaging.com/
 
 status-website:
