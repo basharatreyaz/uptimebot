@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wpsitedoctors.com.ico",
     "slug": "wpsitedoctors",
     "status": "up",
-    "uptime": "86.53%",
-    "uptimeDay": "86.53%",
-    "uptimeWeek": "86.53%",
-    "uptimeMonth": "86.53%",
-    "uptimeYear": "86.53%",
-    "time": 3121,
-    "timeDay": 3121,
-    "timeWeek": 3121,
-    "timeMonth": 3121,
-    "timeYear": 3121,
+    "uptime": "89.32%",
+    "uptimeDay": "89.32%",
+    "uptimeWeek": "89.32%",
+    "uptimeMonth": "89.32%",
+    "uptimeYear": "89.32%",
+    "time": 3118,
+    "timeDay": 3118,
+    "timeWeek": 3118,
+    "timeMonth": 3118,
+    "timeYear": 3118,
     "dailyMinutesDown": {
-      "2024-09-05": 134
+      "2024-09-05": 121
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sitedoctors-in.stackstaging.com.ico",
     "slug": "web",
     "status": "up",
-    "uptime": "95.33%",
-    "uptimeDay": "95.33%",
-    "uptimeWeek": "95.33%",
-    "uptimeMonth": "95.33%",
-    "uptimeYear": "95.33%",
-    "time": 3766,
-    "timeDay": 3766,
-    "timeWeek": 3766,
-    "timeMonth": 3766,
-    "timeYear": 3766,
+    "uptime": "97.42%",
+    "uptimeDay": "97.42%",
+    "uptimeWeek": "97.42%",
+    "uptimeMonth": "97.42%",
+    "uptimeYear": "97.42%",
+    "time": 3906,
+    "timeDay": 3906,
+    "timeWeek": 3906,
+    "timeMonth": 3906,
+    "timeYear": 3906,
     "dailyMinutesDown": {
-      "2024-09-05": 37
+      "2024-09-05": 24
     }
   }
 ]
