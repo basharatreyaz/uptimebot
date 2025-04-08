@@ -4,17 +4,17 @@
     "url": "https://www.wpsitedoctors.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.wpsitedoctors.com.ico",
     "slug": "wpsitedoctors",
-    "status": "up",
-    "uptime": "97.30%",
-    "uptimeDay": "66.90%",
+    "status": "down",
+    "uptime": "97.38%",
+    "uptimeDay": "68.74%",
     "uptimeWeek": "58.90%",
-    "uptimeMonth": "80.86%",
-    "uptimeYear": "97.30%",
-    "time": 1394,
-    "timeDay": 976,
-    "timeWeek": 839,
-    "timeMonth": 791,
-    "timeYear": 1394,
+    "uptimeMonth": "81.44%",
+    "uptimeYear": "97.38%",
+    "time": 1393,
+    "timeDay": 948,
+    "timeWeek": 836,
+    "timeMonth": 789,
+    "timeYear": 1393,
     "dailyMinutesDown": {
       "2025-04-08": 405,
       "2025-04-07": 695,
@@ -26,7 +26,7 @@
       "2025-04-01": 1058,
       "2025-03-31": 1330,
       "2025-03-30": 1339,
-      "2025-03-29": 566
+      "2025-03-29": 312
     }
   },
   {
